@@ -1,0 +1,1 @@
+<view><view class="banner"><image class="banner-img" src="{{data.image}}"></image><view class="banner-title">{{data.title}}</view></view><view class="article-meta"><text class="article-author">所念皆星河</text><text class="article-text">发表于</text><text class="article-time">{{data.time}}</text></view><view class="article-content"><text>{{data.content}}</text></view></view>
